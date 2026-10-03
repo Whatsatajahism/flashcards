@@ -1,0 +1,49 @@
+{
+  "targetLanguage": "Spanish",
+  "level": {
+    "A2": {
+      "vocabList": [
+        {
+          "targetWord": "mercado",
+          "translation": "market"
+        },
+        {
+          "targetWord": "casa",
+          "translation": "house"
+        },
+        {
+          "targetWord": "comida",
+          "translation": "food"
+        },
+        {
+          "targetWord": "familia",
+          "translation": "family"
+        },
+        {
+          "targetWord": "trabajo",
+          "translation": "work"
+        },
+        {
+          "targetWord": "ciudad",
+          "translation": "city"
+        },
+        {
+          "targetWord": "tiempo",
+          "translation": "time"
+        },
+        {
+          "targetWord": "amigo",
+          "translation": "friend"
+        },
+        {
+          "targetWord": "escuela",
+          "translation": "school"
+        },
+        {
+          "targetWord": "iglesia",
+          "translation": "church"
+        }
+      ]
+    }
+  }
+}
